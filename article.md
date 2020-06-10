@@ -36,10 +36,14 @@ There is two types of hyperlinks path.
 ## Structure based Element
 
 some structure based elements are header,nav,main,section,article,aside,footer.which help us to give proper layout of the page.
-**Header** :-Header elements usually come on top of a page, article, section, or any other division of a page. Generally, heading, introductory text, and even navigations are wrapped inside the `<header>` elements. `<header>...</header>`
-**Navigation**:-The purpose of the `<nav>` element is to group all the navigation links. For example menus, table of contents, and indexes.The purpose of the `<nav>` element is to group all the navigation links. For example menus, table of contents, and indexes. `<nav>...<nav>`
+**Header** :-Header elements usually come on top of a page, article, section, or any other division of a page. Generally, heading, introductory text, and even navigations are wrapped inside the `<header>` elements. `<header>...</header>`  
+
+**Navigation**:-The purpose of the `<nav>` element is to group all the navigation links. For example menus, table of contents, and indexes.The purpose of the `<nav>` element is to group all the navigation links. For example menus, table of contents, and indexes. `<nav>...<nav>`  
+
 **main**:-The `<main>` tag specifies all the main content of the body inside a document. All the content coming inside the `<main>` tag should be unique.`<main>...</main>`  
-**section**:-The `<section>` element in HTML document is used to define different section on a page. Typically it includes a heading element but not always.`<section>....</section>`
+
+**section**:-The `<section>` element in HTML document is used to define different section on a page. Typically it includes a heading element but not always.`<section>....</section>`  
+
 **article**:-More often we mark up the content like blog posts, newspaper articles, user-submitted content, etc. inside the `<article>`.
 
 ## knowing more about CSS
@@ -57,8 +61,8 @@ CSS is a "Cascading Style Sheet" where styles cascade from top to bottom. Cascad
 For example:
 ```p{
   color: red;
-}
-p{
+}```
+```p{
   color: green;
 }```
 The green color will be applied to background
