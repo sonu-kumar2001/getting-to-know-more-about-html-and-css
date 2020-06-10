@@ -59,12 +59,12 @@ One of the most popular CSS reset is [Eric Meyer’s](https://meyerweb.com/eric/
 
 CSS is a "Cascading Style Sheet" where styles cascade from top to bottom. Cascading allows to add different styles and overwrite the previous styles. In cascading whatever styles come at the bottom will have more precedence than the earlier one.  
 For example:
-```p{
+p{
   color: red;
-}```
-```p{
+}
+p{
   color: green;
-}```
+}
 The green color will be applied to background
 
 
